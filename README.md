@@ -15,7 +15,7 @@ um projeto desenvolvido com base no OriginSix do NLW Together, Ministrado pela @
 
 > ### Modelo de Licença
 >
-> Licença utilizada neste projeto foi o [MIT](LICENSE")
+> Licença utilizada neste projeto foi o [MIT](LICENSE)
 # CatitaSobrancelhas
 
 - Link de acesso do projeto [Catita Sobrancelhas](https://uenercoelho.github.io/CatitaSobrancelhas/)
