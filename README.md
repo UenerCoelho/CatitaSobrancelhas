@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://[www.rocketseat.com.br](https://github.com/UenerCoelho/)" target="_blank">
+  <a href="https://github.com/UenerCoelho" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Uener&message=Coelho&color=313238&labelColor=228B22" alt="Uener Coelho Github" />
   </a>
  </p>
